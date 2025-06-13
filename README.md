@@ -1,5 +1,30 @@
 # 💫 About Me:
-Im currently working upon Web Development<br>Im looking to collaborate on Open source<br>Im currently learning React<br>pop punk enth<br>
+Aspiring MERN Stack Developer passionate about building full-stack web applications.
+
+🛠️ Current Tech Focus
+Frontend: Mastering React v19 + modern JavaScript (V8 engine internals)
+
+Backend: Building APIs with Express.js
+
+Learning: Full MERN architecture (MongoDB, Express, React, Node.js)
+
+🌱 What I'm Doing
+Sharpening my JS fundamentals with deep dives into V8 optimizations
+
+Creating React projects with hooks, suspense, and server components
+
+Designing RESTful backends with middleware/auth in Express
+
+Exploring Next.js for SSR/SSG
+
+🔜 Goals
+Building performant full-stack apps
+
+Contributing to open-source
+
+Learning TypeScript & cloud deployment
+
+Let's connect and build something great!<br>
 
 
 ## 🌐 Socials:
