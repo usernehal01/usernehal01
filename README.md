@@ -1,7 +1,7 @@
 # 💫 About Me:
-Aspiring MERN Stack Developer passionate about building full-stack web applications.
+<b>Aspiring MERN Stack Developer passionate about building full-stack web applications.</b>
 
-🛠️ Current Tech Focus
+<b>🛠️ Current Tech Focus</b>
 Frontend: Mastering React v19 + modern JavaScript (V8 engine internals)
 
 Backend: Building APIs with Express.js
